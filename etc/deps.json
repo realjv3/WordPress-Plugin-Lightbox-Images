@@ -1,0 +1,11 @@
+{
+    "js": {
+        "fancybox_js": ["lightbox_img/vendor/fancyapps-fancyBox-18d1712/source/jquery.fancybox.js", "jquery"],
+        "fancybox_pack_js": ["lightbox_img/vendor/fancyapps-fancyBox-18d1712/source/jquery.fancybox.pack.js", "jquery"],
+        "jv3_set_img_lightbox": ["lightbox_img/lightbox_img.js", "fancybox_js"],
+        "jv3_pinterest": ["lightbox_img/includes/social_buttons.js"]
+    },
+    "css": {
+        "fancybox_css": ["lightbox_img/vendor/fancyapps-fancyBox-18d1712/source/jquery.fancybox.css"]
+    }
+}
